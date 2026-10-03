@@ -1,0 +1,20 @@
+[
+    {
+        "customer_name": "Hitesh",
+        "items": [
+            "Pizza",
+            "Burger"
+        ],
+        "total_amount": 350.0,
+        "order_status": "Pending"
+    },
+    {
+        "customer_name": "Mitesh",
+        "items": [
+            "Choclate-Shake",
+            "Milk-shake"
+        ],
+        "total_amount": 450.0,
+        "order_status": "Pending"
+    }
+]

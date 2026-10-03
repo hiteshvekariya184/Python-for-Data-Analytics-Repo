@@ -1,0 +1,22 @@
+[
+    {
+        "order_id": "ORD001",
+        "customer_name": "Shyam Patel",
+        "items": [
+            "Pizza",
+            "Burgar"
+        ],
+        "total_amount": 450.0,
+        "status": "Pending"
+    },
+    {
+        "order_id": "ORD002",
+        "customer_name": "Ankit mepani",
+        "items": [
+            "Choclate-milk-shake",
+            "Badam-Shake"
+        ],
+        "total_amount": 250.0,
+        "status": "Pending"
+    }
+]
